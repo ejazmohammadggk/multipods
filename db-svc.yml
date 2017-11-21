@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: mysql
   labels:
-    name: mysql1
+    name: mysql
     app: java
 spec:
   ports:
